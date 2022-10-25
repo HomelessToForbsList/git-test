@@ -1,1 +1,1 @@
-console.log('Hello, Taras!')
+console.log('Hello, friend!')
